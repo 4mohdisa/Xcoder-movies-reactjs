@@ -11,7 +11,6 @@ export const Image = styled.img`
 
   :hover {
     opacity: 0.8;
-    transform: translateY(-10px);
     box-shadow: 0 7px 20px rgba(0, 0, 0, 0.5);
   }
   @keyframes animateThumb {
